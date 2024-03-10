@@ -1,4 +1,4 @@
-<p><img src="./roydanner.png" alt="royrodrigo" width="40" height="40"/></p>
+<p><img src="./roydanner.png" alt="royrodrigo" width="100%" height="100%"/></p>
 <h1 align="center">Hi 👋, I'm Danner Rodrigo</h1>
 <h3 align="center">Systems engineer student in Bolivia</h3>
 
