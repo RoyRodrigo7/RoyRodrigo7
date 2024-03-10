@@ -1,4 +1,4 @@
-<p><img src='https://drive.google.com/file/d/1THqETyKR6mf-Dp_jZrCFIiade6UFtpDp/view?usp=drive_link'/></p>
+<p><img src='https://drive.google.com/file/d/1THqETyKR6mf-Dp_jZrCFIiade6UFtpDp/view?usp=drive_link' alt="royrodrigo" width="40" height="40"/></p>
 <h1 align="center">Hi 👋, I'm Danner Rodrigo</h1>
 <h3 align="center">Systems engineer student in Bolivia</h3>
 
